@@ -195,7 +195,7 @@ http://localhost:8000
 ## 👨‍💻 Contributors
 
 - Asha Giri
-- Komal Basnet
+
 
 ---
 
