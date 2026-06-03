@@ -1,6 +1,5 @@
 # 🌍 Earthquake Detection and Monitoring System
 
-
 A real-time Earthquake Detection and Monitoring System designed to detect seismic activities, monitor earthquake events, and provide instant alerts to users. The system utilizes IoT sensors, GPS technology, cloud-based data processing, and a web dashboard to visualize earthquake information and improve disaster preparedness.
 
 ---
