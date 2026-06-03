@@ -7,6 +7,7 @@ A real-time Earthquake Detection and Monitoring System designed to detect seismi
 
 ## 📖 Project Overview
 
+
 The Earthquake Detection and Monitoring System is an IoT-based solution that continuously monitors ground vibrations using seismic sensors. When abnormal seismic activity is detected, the system analyzes the data, determines the earthquake intensity, and sends real-time alerts to authorities and registered users.
 
 The platform provides:
