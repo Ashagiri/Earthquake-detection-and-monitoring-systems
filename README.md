@@ -4,7 +4,6 @@ A real-time Earthquake Detection and Monitoring System designed to detect seismi
 
 
 
-
 ---
 
 
